@@ -2,7 +2,7 @@
     <!-- Основной стиль приложения -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Вы можете настроить различные атрибуты стиля -->
-        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimary">@color/graphite_gray</item>
         <item name="colorAccent">@color/white</item>
     </style>
 </resources>
